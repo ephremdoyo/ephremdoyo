@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack web developer with a kn
   - Node.js, Express
   - RESTful APIs
 - **Database Management**:
-  - MongoDB
+  - MySQL
 
 ### 🚀 What I Love
 
@@ -28,8 +28,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack web developer with a kn
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/ephrem19)
-- [Twitter](https://twitter.com/ephrem--19)
+- [LinkedIn](https://www.linkedin.com/ephremdoyo)
 - [Personal Website](https://www.ephremwebdev.com)
 
 ### 📊 GitHub Stats
